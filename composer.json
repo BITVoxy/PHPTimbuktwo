@@ -11,8 +11,8 @@
             "homepage": "http://www.lancecameron.xyz",
             "role": "Developer/Blogger"
         }
-    ]
+    ],
     "autoload": {
-	"files": ["Timbuktwo.php"]
+        "files": ["Timbuktwo.php"]
    }
 }
