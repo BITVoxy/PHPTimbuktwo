@@ -15,13 +15,22 @@
     "support": {
         "email": "support@bitvoxy.com"
     },
+    "minimum-stability": "stable",
     "require": {
-        "php": "^5.3"
+        "php": ">=5.4"
     },
     "require-dev": {
-        "php": "^5.3"
+        "php": ">=5.4"
     },
     "autoload": {
-	      "files": ["Timbuktwo.php"]
-   }
+	"files": ["Timbuktwo.php"]
+   },
+    "autoload-dev": {
+	"files": ["Timbuktwo.php"]
+   },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        }
+    }
 }
