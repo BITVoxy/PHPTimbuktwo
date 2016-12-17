@@ -36,7 +36,8 @@ a function to efficiently convert to/from various bitcoin units.
 
 $unit = 'satoshi';
 $amount = 1.54325;
-btcUnit($amount,$type)
+$new_unit = btcUnit($amount,$type);
+print $new_unit; // will return ...
 // returns  value in btc
 
 ?>
