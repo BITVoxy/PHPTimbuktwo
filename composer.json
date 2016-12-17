@@ -3,7 +3,7 @@
     "type": "library",
     "description": "A Library of useful reusable functions.",
     "homepage": "https://github.com/BITVoxy/PHPTimbuktwo",
-    "license": "GPL",
+    "license": "GPL-3",
     "authors": [
         {
             "name": "Lance Cameron",
@@ -14,14 +14,14 @@
     ],
     "support": {
         "email": "support@bitvoxy.com"
-    }
+    },
     "require": {
-        "php": "^5.3 || ^7.0"
+        "php": "^5.3"
     },
     "require-dev": {
-        "php": "^5.3 || ^7.0"
+        "php": "^5.3"
     },
     "autoload": {
-	"files": ["Timbuktwo.php"]
+	      "files": ["Timbuktwo.php"]
    }
 }
