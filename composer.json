@@ -14,7 +14,7 @@
     ],
     "support": {
         "email": "support@bitvoxy.com"
-    }
+    },
     "require": {
         "php": "^5.3 || ^7.0"
     },
