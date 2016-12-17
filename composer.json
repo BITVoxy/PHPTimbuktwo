@@ -15,7 +15,7 @@
     "support": {
         "email": "support@bitvoxy.com"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.6"
     },
@@ -30,7 +30,8 @@
    },
     "extra": {
         "branch-alias": {
-            "dev-master": "0.1.1.x-dev"
+            "stable": "0.1.1.x-dev",
+	    "dev-master": "0.1.1.x-dev"
         }
     }
 }
