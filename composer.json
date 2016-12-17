@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "php": ">=5.1"
+        "php": ">=5.1.0"
     },
 	"autoload": {
 		"files": ["Timbuktwo.php"]
