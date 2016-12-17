@@ -12,7 +12,7 @@ class Timbuktwo {
      * @return string containing new unit value 
      * STATUS:NOT_COMPLETED
      */
-    public static function btcUnit($amount, $type = 'satoshi') {
+    public static function dogeUnit($amount, $type = 'satoshi') {
         # more stuff here
         return $amount;
     }
