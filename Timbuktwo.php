@@ -13,6 +13,7 @@ class Timbuktwo {
      * STATUS:NOT_COMPLETED
      */
     public static function btcUnit($amount, $type = 'satoshi') {
+        # more stuff here
         return $amount;
     }
 }
