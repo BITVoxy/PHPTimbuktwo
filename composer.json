@@ -8,14 +8,14 @@
         {
             "name": "Lance Cameron",
             "email": "vishtany@bitvoxy.com",
-            "homepage": "http://lancecameron.xyz",
+            "homepage": "http://www.lancecameron.xyz",
             "role": "Developer/Blogger"
         }
     ],
     "require": {
-        "php": ">=5.1.0"
+        "php": ">=5.3.0"
     },
-	"autoload": {
-		"files": ["Timbuktwo.php"]
-	}
+    "autoload": {
+	"files": ["Timbuktwo.php"]
+   }
 }
