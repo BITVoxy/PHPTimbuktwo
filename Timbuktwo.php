@@ -1,7 +1,6 @@
 <?php
 
-# namespace Timbuktwo; // consider the use of a namespace for later
-
+ namespace Timbuktwo;
 
 class Timbuktwo {
     /**
