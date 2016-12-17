@@ -16,7 +16,7 @@
         "email": "support@bitvoxy.com"
     },
     "minimum-stability": "dev",
-    "prefer-stable": "false",
+    "prefer-stable": "true",
     "require": {
         "php": ">=5.6"
     },
