@@ -12,7 +12,10 @@
             "role": "Developer/Blogger"
         }
     ],
+    "require": {
+        "php": ">=5.3.0"
+    },
     "autoload": {
-        "files": ["Timbuktwo.php"]
+	"files": ["Timbuktwo.php"]
    }
 }
