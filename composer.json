@@ -1,7 +1,7 @@
 {
     "name": "bitvoxy/phptimbuktwo",
-    "description": "A Library of useful reusable functions.",
     "type": "library",
+    "description": "A Library of useful reusable functions.",
     "homepage": "https://github.com/BITVoxy/PHPTimbuktwo",
     "license": "GPL",
     "authors": [
