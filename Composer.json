@@ -1,6 +1,17 @@
 {
     "name": "bitvoxy/phptimbuktwo",
     "description": "A Library of useful reusable functions.",
+    "type": "library",
+    "homepage": "https://github.com/BITVoxy/PHPTimbuktwo",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Lance Cameron",
+            "email": "vishtany@bitvoxy.com",
+            "homepage": "http://lancecameron.xyz",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": "^5.3.3 || ^7.0"
     }
